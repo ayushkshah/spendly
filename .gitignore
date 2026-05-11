@@ -7,3 +7,5 @@ __pycache__/
 .DS_Store
 .claude/plans/
 .github/instructions/wmt-copilot.instructions.md
+.vscode/
+.idea/
